@@ -1,0 +1,500 @@
+  143  git add .
+  144  git commit
+  145  git push
+  146  ls
+  147  cd ..
+  148  ls
+  149  ls
+  150  git clone https://github.com/devcmgm/TypeScript-React-Starter.git
+  151  ;s
+  152  ls
+  153  cd TypeScript-React-Starter 
+  154  ls
+  155  cd ..
+  156  ls
+  157  cd ..
+  158  ls
+  159  rm -rf pythonintro
+  160  git clone https://github.com/devcmgm/TypeScript-React-Starter.git
+  161  cd Ty*
+  162  ls
+  163  npm install
+  164  npm audit fix
+  165  npm test
+  166  npm start
+  167  ls
+  168  npm test
+  169  ls
+  170  npm start
+  171  npm update
+  172  npm start
+  173  cd ..
+  174  ls
+  175  cd d1
+  176  npm install
+  177  npm start
+  178  pwd
+  179  ls
+  180  npn start
+  181  npm start
+  182  npm test
+  183  npm test
+  184  PS1=d1:
+  185  pwd
+  186  cd ..
+  187  ls
+  188  ls
+  189  cd sp*
+  190  ls
+  191  npm install
+  192  npm audit fix
+  193  npm start
+  194  pwd 
+  195  cd ..
+  196  npx create-react-app demo1
+  197  ls
+  198  cd demo1
+  199  ls
+  200  ls
+  201  cd ..
+  202  ls
+  203  cd T*
+  204  ls
+  205  npm start
+  206  npm start
+  207  ls
+  208  cd ..
+  209  create-react-app demots
+  210  npx create-react-app rts --typescript
+  211  ls
+  212  cd rts
+  213  ls
+  214  npm install
+  215  npm start
+  216  pwd
+  217  ls
+  218  ls
+  219  npm start
+  220  pwd
+  221  npm start
+  222  npm install
+  223  npm start
+  224  react-scripts-ts start
+  225  npm install -g
+  226  ls -l /Volumes/b1/usr/local/lib/node_modules
+  227  sudo chmod -R 777 /Volumes/b1/usr/local/lib/node_modules
+  228  id
+  229  sudo chown zacharylewis /Volumes/b1/usr/local/lib/node_modules
+  230  ls -l /Volumes/b1/usr/local/lib/node_modules
+  231  npm install -g
+  232  npm start
+  233  npm install -g react-scripts-ts
+  234  sudo chmod -R 777 /Volumes/b1/usr/local
+  235  sudo chown zacharylewis /Volumes/b1/usr/local
+  236  npm install -g react-scripts-ts
+  237  npm start
+  238  pwd
+  239  ls
+  240  cd ..
+  241  ls
+  242  npx create-react-app rts2 --typescript
+  243  cd rts2
+  244  ;s
+  245  ls
+  246  cd ..
+  247  ls
+  248  pwd
+  249  npx create-react-app rts3
+  250  ls
+  251  cd rts3
+  252  ls
+  253  pwd
+  254  cd ..
+  255  ls
+  256  rm -rf rts?
+  257  npx --ignore-existing create-react-app
+  258  ls
+  259  npx --ignore-existing create-react-app 
+  260  npx create-react-app myapp 
+  261  ls
+  262  cd myapp
+  263  ls
+  264  ls
+  265  npx --ignore-existing create-react-app 
+  266  npx --ignore-existing create-react-app myapp2
+  267  exit
+  268  PS1=d2:
+  269  pwd
+  270  cd myapp3
+  271  ls
+  272  npm start
+  273  npm install -g json-server 
+  274  ls -l /usr/local/lib
+  275  sudo chmod -R 777 /usr/local/lib
+  276  sudo chown zacharylewis /usr/local/lib
+  277  npm install -g json-server 
+  278  ls
+  279  npm install json-server --save 
+  280  vi db.json
+  281  json-server --watch db.json
+  282  export PORT=8181
+  283  json-server --watch db.json
+  284  json-server --watch db.json --port 8181
+  285  PS1=d1:
+  286  clear
+  287  ls
+  288  rm *.ipynb
+  289  ls
+  290  rm demo*
+  291  ls
+  292  rm -r ec*
+  293  rm fo*
+  294  rm -rf hackathonprep2020 
+  295  rm -rf li* sca*
+  296  ls
+  297  rm -rf old1
+  298  ls
+  299  cd desktop
+  300  ls
+  301  rm sc*
+  302  rm Sc*
+  303  ls
+  304  cd myapp3
+  305  npm start
+  306  now init
+  307  npm install now
+  308  npm install -g npm
+  309  npm install now -g
+  310  npm install now --save
+  311  npm start
+  312  npm start
+  313  npm install
+  314  npm start
+  315  npm start
+  316  npm install
+  317  npm install
+  318  npm start
+  319  cd ..
+  320  pwd
+  321  git clone https://github.com/devcmgm/reactdemo02.git
+  322  ls
+  323  cd reac*
+  324  ;s
+  325  ls
+  326  git status
+  327  git add .
+  328  git commit
+  329  git push
+  330  npm install
+  331  npm start
+  332  npm install
+  333  npm start
+  334  ls
+  335  mv node_modules  ..
+  336  git status
+  337  git add .
+  338  git commit
+  339  git push
+  340  PS1=d1:
+  341  ls
+  342  npm start
+  343  npm install
+  344  npm start
+  345  npm start
+  346  npm start
+  347  npm start
+  348  npm start
+  349  npm start
+  350  npm install redux --save
+  351  npm install react-redux --save 
+  352  npm install react-router-dom --save
+  353  npm install prop-types --save
+  354  npm start
+  355  npm start
+  356  cd /Users/zacharylewis/Desktop/10\ -\ Stateless\ Components/components 
+  357  ls
+  358  npm install
+  359  npm audit fix
+  360  npm start
+  361  export SKIP_PREFLIGHT_CHECK=true
+  362  npm start
+  363  clear
+  364  pwdf
+  365  pwd
+  366  cd ..
+  367  ls
+  368  cd ..
+  369  ls
+  370  mkdir d1
+  371  mkdir mar8
+  372  cd mar8
+  373  ls
+  374  npx create-react-app my-app --template typescript
+  375  ls
+  376  mv my-app demots
+  377  cd demots
+  378  ls
+  379  npm start
+  380  npm install react-redux --save
+  381  ls
+  382  cd src
+  383  ls
+  384  mkdir redux
+  385  mv reducers redux
+  386  mv ac* redux
+  387  mv store.tsx redux
+  388  ls
+  389  cd ..
+  390  ls
+  391  more pa*
+  392  npm install react-redux --save
+  393  npm install @types/react-redux --save
+  394  npm audit fix
+  395  pwd
+  396  PS1=d:
+  397  clear
+  398  npm start
+  399  curl 'http://localhost:4000/' -H 'Connection: keep-alive' -H 'Accept: application/json, text/plain, */*' -H 'Sec-Fetch-Dest: empty' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36' -H 'Content-Type: application/x-www-form-urlencoded' -H 'Origin: http://localhost:3000' -H 'Sec-Fetch-Site: same-site' -H 'Sec-Fetch-Mode: cors' -H 'Referer: http://localhost:3000/' -H 'Accept-Language: en-US,en;q=0.9' --data 'HERe Works' --compressed
+  400  npm start
+  401  https://github.com/devcmgm/reactdemo02.git
+  402  pwd
+  403  cd desktop
+  404  git clone https://github.com/devcmgm/reactdemo02.git
+  405  cd reactdemo01
+  406  ls
+  407  cd reactdemo02
+  408  ls
+  409  code
+  410  npm start
+  411  pwd
+  412  ls
+  413  npm install
+  414  npm start
+  415  npm install @redux-offline/redux-offline --save
+  416  npm start
+  417  npm install axios --save
+  418  npm start
+  419  npm install react-cookies --save
+  420  npm start
+  421  npm install react-dom --save
+  422  npm start
+  423  cd ..
+  424  ls
+  425  git clone https://github.com/devcmgm/Fullstack_React_Spring_101
+  426  cd Fu*
+  427  ls
+  428  ./setupEC2.txt
+  429  . ./setupEC2.txt
+  430  ls
+  431  pwd
+  432  ls
+  433  pwd
+  434  cd ..
+  435  ls
+  436  ssh -i "mypair.pem" ubuntu@ec2-3-14-27-215.us-east-2.compute.amazonaws.com
+  437  chmod 400 mypair.com
+  438  ls
+  439  chmod 400 mypair.pem
+  440  ssh -i "mypair.pem" ubuntu@ec2-3-14-27-215.us-east-2.compute.amazonaws.com
+  441  exit
+  442  pwd
+  443  ls
+  444  cd -
+  445  s
+  446  ls
+  447  cd desktop
+  448  ls
+  449  node
+  450  which node
+  451  cd /usr/local/bin
+  452  ls
+  453  df -k 
+  454  df -k .
+  455  pwd
+  456  clear
+  457  df -k .
+  458  ls
+  459  pwd
+  460  cd ..
+  461  ls
+  462  cd lib
+  463  ls -l | more
+  464    ls
+  465  rm -rf node_modules
+  466  ls
+  467  ls -l
+  468  pwd
+  469  ls /volumes/b1
+  470  mkdir /volumes/b1/node_modules
+  471  chmod 777 /volumes/b1/node_modules
+  472  chmod -R 777 /volumes/b1/node_modules
+  473  ln -s /volumes/b1/node_modules
+  474  ls
+  475  ls -l
+  476  cd 
+  477  node -v
+  478  which mysql
+  479  mysql
+  480  ls
+  481  cd /usr/local
+  482  ls
+  483  rm -rf mysql mysql-5.7.28-macos10.14-x86_64 
+  484  sudo rm -rf mysql mysql-5.7.28-macos10.14-x86_64 
+  485  df -k .
+  486  ls
+  487  top 
+  488  pwd
+  489  df
+  490  df -k
+  491  df -k .
+  492  pwd
+  493  mkdir kub1
+  494  cd kub1
+  495  ls
+  496     curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/darwin/amd64/kubectl"
+  497  PS1=foo:
+  498  clear
+  499  ls
+  500  pwd
+  501  git clone https://github.com/trenholmstem2021zach/-React-Weather-App.git
+  502  cd -R*
+  503  ls
+  504  cd"-React*
+  505  cd"-React*"
+  506  cd "Re*"
+  507  lls
+  508  git clone "-Re*"
+  509  dir
+  510  pwd
+  511  dir
+  512  ls
+  513  cd "-R*"
+  514  cd "\-R*"
+  515  cd \-R*
+  516  pwd
+  517  git clone https://github.com/trenholmstem2021zach/React-Weather-App.git
+  518  cd Re*
+  519  dir
+  520  ls
+  521  vi README.md
+  522  git add .
+  523  git commit -m "work"
+  524  git push
+  525  git login
+  526  git config
+  527  clear
+  528  pwd
+  529  cd ..
+  530  ls
+  531  mkdir expo
+  532  git clone https://github.com/Dev-Circle-Montgomery/ReactWeatherApp.git
+  533  cd Re*
+  534  ls
+  535  git push
+  536  vi foo
+  537  . ./foo
+  538  . ./foo
+  539  ls
+  540  more gi*
+  541  :q!
+  542  vi git*
+  543  ls
+  544  textedit
+  545  git push
+  546  ls
+  547  ls ~.ssh
+  548  ls ~/.ssh
+  549  cd "-R*"
+  550  history -100 | grep ssh
+  551  history -n 100 | grep ssh
+  552  history -n 100
+  553  more foo
+  554  sh-keygen -t rsa -b 4096 -C "trenholm.stem2021.zach@gmail.com"
+  555  ssh-keygen -t rsa -b 4096 -C "trenholm.stem2021.zach@gmail.com"
+  556  more ~/.ssh/*.pub
+  557  ssh-keygen -t rsa -b 4096 -C "trenholm.stem2021.zach@gmail.com"
+  558  git push
+  559  lss
+  560  cd ..
+  561  ls
+  562  mkdir exporwork
+  563  cd expowork
+  564  ls
+  565  mkdir expowork
+  566  cd expowork
+  567  git clone git@github.com:trenholmstem2021zach/React-Weather-App.git
+  568  vi README.md
+  569  git add .
+  570  pwd
+  571  cd R*
+  572  cp ../RE*
+  573  cp ../RE* .
+  574  ls
+  575  cd Re*
+  576  cp ../RE* .
+  577  git status
+  578  git add .
+  579  git commit -m "zac"
+  580  git push
+  581  code .
+  582  cd ...
+  583  cd ..
+  584  ls
+  585  mdkir tmp1
+  586  mkdir tmp1
+  587  vi foo.txt
+  588  git init .
+  589  git add .
+  590  ls
+  591  cd temp`
+  592  cd tmp1
+  593  cp ../foo.txt
+  594  cp ../foo.txt 
+  595  cp ../foo.txt  .
+  596  ls
+  597  git init
+  598  git init .
+  599  ls
+  600  git add .
+  601  git commit -m "add"
+  602  git push
+  603  git remote add local https://github.com/trenholmstem2021zach/testvscode01
+  604  git push
+  605  git remote add local https://github.com/trenholmstem2021zach/testvscode01
+  606  git remote add local https://github.com/trenholmstem2021zach/vscode1
+  607  rm -rf .git
+  608  git remote add local https://github.com/trenholmstem2021zach/vscode1
+  609  ls
+  610  git add .
+  611  git commit -m "works"
+  612  git push
+  613  git remote add local https://github.com/trenholmstem2021zach/vscode1
+  614  ls
+  615  git push vscode1
+  616  git push --set-upstream vscode1 master
+  617  git remote add local https://github.com/trenholmstem2021zach/vscode1rm -rf .git
+  618  rm -rf .git
+  619  git remote add local https://github.com/trenholmstem2021zach/testvscode01
+  620  ls
+  621  ls -a
+  622  git remote add local https://github.com/trenholmstem2021zach/vsdemo01
+  623  git remote add vscodedemo  https://github.com/trenholmstem2021zach/vsdemo01
+  624  git add .
+  625  git commit -m "ofo"
+  626  git push
+  627  git push vscodedemo
+  628  git push --set-upstream vscodedemo master
+  629  git push --set-upstream vscodedemo masterrm
+  630  rm -rf .git
+  631  git init
+  632  git add README.md
+  633  git commit -m "first commit"
+  634  git branch -M main
+  635  git remote add origin git@github.com:trenholmstem2021zach/testvscode01.git
+  636  git push -u origin main
+  637  git status
+  638  git add .
+  639  git commit -m "foo"
+  640  git push
+  641  git push --set-upstream origin master
+  642  history > didthis.txt
